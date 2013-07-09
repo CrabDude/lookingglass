@@ -1,0 +1,26 @@
+{
+  "name": "lookingglass",
+  "version": "0.0.0",
+  "description": "A node.js addon to add remote Chrome Devtools debugging support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CrabDude/lookingglass.git"
+  },
+  "keywords": [
+    "chrome",
+    "devtools",
+    "inspector",
+    "debug"
+  ],
+  "author": "Adam Crabtree",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "5b8f4a7ce7ec295b64b052d2b562829ecf018368",
+  "bugs": {
+    "url": "https://github.com/CrabDude/lookingglass/issues"
+  }
+}
